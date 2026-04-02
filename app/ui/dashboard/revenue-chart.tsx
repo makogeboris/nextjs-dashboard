@@ -2,7 +2,10 @@ import { generateYAxis } from "@/app/lib/utils";
 import { CalendarIcon } from "@heroicons/react/24/outline";
 import { lusitana } from "@/app/ui/fonts";
 import { Revenue } from "@/app/lib/definitions";
+<<<<<<< HEAD
 import { fetchRevenue } from "@/app/lib/data";
+=======
+>>>>>>> 3e68059 (feat: add data fetching)
 
 // This component is representational only.
 // For data visualization UI, check out:
